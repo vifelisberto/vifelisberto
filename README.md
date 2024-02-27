@@ -4,10 +4,10 @@ Hi 👋 My name is Vinicius Felisberto
 Software Engineer
 -----------------
 
-5 years of development experience Enthusiastic about good practices. Driven by purpose and challenges.
+7 years of development experience Enthusiastic about good practices. Driven by purpose and challenges.
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🚀  I'm currently working on [Lambda3](http://lambda3.com.br)
+* 🚀  I'm currently working on [Luizalabs By Magazine Luiza]([http://lambda3.com.br](https://www.magazineluiza.com.br/))
 * 🧠  I'm learning Software Architect and DevOps
 
 ### Skills
